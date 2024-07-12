@@ -1,0 +1,44 @@
+{
+  "tweets": [
+    {
+      "id": 1,
+      "user": {
+        "name": "Hicham aafi",
+        "username": "AAFIHICHAM",
+        "avatar": "https://assets.weforum.org/article/image/large_-ytU8aFc7NXOVyhZ2HjKvs2CDIRFPYxBqgtKIJd9V-s.png"
+      },
+      "content": "This is a tweet content",
+      "date": "2023-07-04T12:00:00Z"
+    },
+    {
+      "id": 2,
+      "user": {
+        "name": "Hicham aafi",
+        "username": "AAFIHICHAM",
+        "avatar": "https://example.com/avatar2.png"
+      },
+      "content": "Another tweet content",
+      "date": "2023-07-05T14:00:00Z"
+    },
+    {
+      "id": "e31f",
+      "user": {
+        "name": "Your Name",
+        "username": "yourusername",
+        "avatar": "https://example.com/avatar.png"
+      },
+      "content": "test",
+      "date": "2024-07-12T14:32:14.911Z"
+    },
+    {
+      "id": "5b7c",
+      "user": {
+        "name": "Your Name",
+        "username": "yourusername",
+        "avatar": "https://example.com/avatar.png"
+      },
+      "content": "ahicham",
+      "date": "2024-07-12T14:32:23.577Z"
+    }
+  ]
+}
